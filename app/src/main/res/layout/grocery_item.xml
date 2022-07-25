@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_margin="8dp">
+    <TextView
+        android:textColor="?attr/textColor"
+        android:id="@+id/namaK"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="10dp"
+        android:text="("
+        android:textSize="25sp" />
+        <TextView
+            android:textColor="?attr/textColor"
+            android:id="@+id/textview_amount_item"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="0"
+            android:textSize="25sp" />
+
+        <TextView
+            android:textColor="?attr/textColor"
+            android:id="@+id/namaK2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text=")"
+            android:textSize="25sp" />
+        <TextView
+            android:id="@+id/textview_name_item"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Empty Item"
+            android:textColor="?attr/textColor"
+            android:layout_marginLeft="30dp"
+            android:textSize="25sp"
+            tools:layout_editor_absoluteX="44dp"
+            tools:layout_editor_absoluteY="1dp" />
+</LinearLayout>

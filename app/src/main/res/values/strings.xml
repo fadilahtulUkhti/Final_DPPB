@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Colorful Notes
+    </string>
+    <string name="type0">Names</string>
+    <string name="type1">Numbers</string>
+    <string name="type2">Divination</string>
+</resources>
