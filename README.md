@@ -1,3 +1,1 @@
-SQLite + Android - Complete Tutorial
-
-Note: Video tutorials will be available on my Youtube channel (Stevdza-San) soon.
+Oleh Nuuraan Risqi Amaliah 42620038 dan A. Nurul Fadilahtul Ukhti 42620027
